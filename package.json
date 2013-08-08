@@ -1,0 +1,27 @@
+{
+	"name": "logsmith",
+	"version": "0.0.1",
+	"author": "Websecurify <contact@websecurify.com>",
+	"description": "Simple logging wrapper around winston.",
+	"license": "MIT",
+	
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/websecurify/node-logsmith.git"
+	},
+	
+	"keywords": [
+		"log",
+		"winston",
+	],
+	
+	"main": "./lib/index.js",
+	
+	"directories": {
+		"lib": "./lib/"
+	},
+	
+	"dependencies": {
+		"winston": "0.7.2"
+	}
+}
