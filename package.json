@@ -1,6 +1,6 @@
 {
 	"name": "logsmith",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Websecurify <contact@websecurify.com>",
 	"description": "Simple logging wrapper around winston.",
 	"license": "MIT",
@@ -12,7 +12,7 @@
 	
 	"keywords": [
 		"log",
-		"winston",
+		"winston"
 	],
 	
 	"main": "./lib/index.js",
